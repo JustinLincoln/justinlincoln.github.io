@@ -1,1 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Projects | Another Human in the Loop</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <nav class="site-nav">
+
+    <a class="site-title" href="index.html">
+      Another Human in the Loop
+    </a>
+
+    <div class="site-links">
+      <a href="index.html">Home</a>
+      <a href="projects.html">Projects</a>
+      <a href="about.html">About</a>
+      <a href="https://www.youtube.com/@justinlincoln" target="_blank">YouTube</a>
+      <a href="https://www.instagram.com/thebuildingisacamera/" target="_blank">Instagram</a>
+      <a href="https://www.patreon.com/c/AnotherHumanInTheLoop" target="_blank">Patreon</a>
+      <a href="https://openprocessing.org/@jlincoln#sketches" target="_blank">OpenProcessing</a>
+      <a href="https://www.are.na/justin-lincoln/channels" target="_blank">Are.na</a>
+    </div>
+
+  </nav>
+
+
+  <main>
+
+    <h1>Projects</h1>
+
+    <p>
+      Generative art, creative coding, interactive systems,
+      sound experiments, and other things made with computers.
+    </p>
+
+
+    <section class="project">
+
+      <h2>Ellsworth Kelly Tweens</h2>
+
+      <p>
+        A generative study inspired by the work of Ellsworth Kelly.
+      </p>
+
+      <div class="media">
+
+        <div class="video">
+
+          <iframe
+            src="https://www.youtube-nocookie.com/embed/ZRfGWD1PSfY"
+            title="Ellsworth Kelly Tweens"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+          </iframe>
+
+        </div>
+
+
+        <div class="sketch">
+
+          <iframe
+            src="https://openprocessing.org/sketch/2888722/embed/"
+            width="400"
+            height="400">
+          </iframe>
+
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+</body>
+</html>
