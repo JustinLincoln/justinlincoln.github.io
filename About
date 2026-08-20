@@ -1,1 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>About | Another Human in the Loop</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <nav class="site-nav">
+
+    <a class="site-title" href="index.html">
+      Another Human in the Loop
+    </a>
+
+    <div class="site-links">
+      <a href="index.html">Home</a>
+      <a href="projects.html">Projects</a>
+      <a href="about.html">About</a>
+      <a href="https://www.youtube.com/@justinlincoln" target="_blank">YouTube</a>
+      <a href="https://www.instagram.com/thebuildingisacamera/" target="_blank">Instagram</a>
+      <a href="https://www.patreon.com/c/AnotherHumanInTheLoop" target="_blank">Patreon</a>
+      <a href="https://openprocessing.org/@jlincoln#sketches" target="_blank">OpenProcessing</a>
+      <a href="https://www.are.na/justin-lincoln/channels" target="_blank">Are.na</a>
+    </div>
+
+  </nav>
+
+
+  <main>
+
+    <h1>About</h1>
+
+    <p>
+      Another Human in the Loop is a creative laboratory exploring
+      the space between human intention, computational systems,
+      and emergent behavior.
+    </p>
+
+    <p>
+      I'm Justin Lincoln, an artist, educator, designer, and creative
+      technologist working with generative art, creative coding,
+      interaction, sound, and emerging technologies.
+    </p>
+
+    <p>
+      My work often begins with a simple system and then asks what
+      happens when I give that system room to behave on its own.
+      The resulting experiments can become images, animations,
+      instruments, interfaces, or interactive environments.
+    </p>
+
+    <h2>Practice</h2>
+
+    <p>
+      Processing, p5.js, shaders, sound, interaction design,
+      generative systems, and experiments with AI.
+    </p>
+
+    <h2>Another Human in the Loop</h2>
+
+    <p>
+      This site is both an archive and an ongoing experiment.
+      New work will appear here as it develops.
+    </p>
+
+  </main>
+
+</body>
+</html>
